@@ -1,0 +1,13 @@
+{
+	"homepage": "https://github.com/cyilin/zyinhud/releases",
+	"1.10.2": {
+		"1.5.2": "update to forge1.10.2-12.18.1.2046
+add RenderElytraIcon for Player Locator
+fix Safe Overlay
+improve Potion Timers"
+	},
+	"promos": {
+		"1.10.2-latest": "1.5.2",
+		"1.10.2-recommended": "1.5.2"
+	}
+}
