@@ -1,11 +1,11 @@
 {
 	"homepage": "https://github.com/cyilin/zyinhud/releases",
 	"1.10.2": {
-		"1.5.2.1": "update zh_TW.lang #2 thanks Bob9154
-fix elytra icon location"
+		"1.5.2.1": "update zh_TW.lang #2 thanks Bob9154\nfix elytra icon location",
+        "1.5.2.2": "fix #3"
 	},
 	"promos": {
-		"1.10.2-latest": "1.5.2.1",
-		"1.10.2-recommended": "1.5.2.1"
+		"1.10.2-latest": "1.5.2.2",
+		"1.10.2-recommended": "1.5.2.2"
 	}
 }
