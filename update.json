@@ -3,6 +3,7 @@
     "1.10.2": {
         "1.5.2.1": "update zh_TW.lang #2 thanks Bob9154\nfix elytra icon location",
         "1.5.2.2": "fix #3"
+        "1.5.2.3": "update .travis.yml"
     },
     "promos": {
         "1.10.2-latest": "1.5.2.2",
