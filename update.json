@@ -10,8 +10,13 @@
     "1.5.2.7": "fix floating text render\nminor bugfix",
     "1.5.2.8": "update to forge1.10.2-12.18.2.2125"
   },
+  "1.11": {
+    "1.5.3.9": "update to forge1.11-13.19.0.2141"
+  },
   "promos": {
     "1.10.2-latest": "1.5.2.8",
-    "1.10.2-recommended": "1.5.2.8"
+    "1.10.2-recommended": "1.5.2.8",
+    "1.11-latest": "1.5.3.9",
+    "1.11-recommended": "1.5.3.9"
   }
 }
