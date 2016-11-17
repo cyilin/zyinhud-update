@@ -1,16 +1,17 @@
 {
-    "homepage": "https://github.com/cyilin/zyinhud/releases",
-    "1.10.2": {
-        "1.5.2.1": "update zh_TW.lang #2 thanks Bob9154\nfix elytra icon location",
-        "1.5.2.2": "fix #3",
-        "1.5.2.3": "update .travis.yml",
-        "1.5.2.4": "update to forge1.10.2-12.18.1.2094",
-        "1.5.2.5": "check weapon damage and attack speed #4",
-        "1.5.2.6": "select best sword #4",
-        "1.5.2.7": "fix floating text render\nminor bugfix"
-    },
-    "promos": {
-        "1.10.2-latest": "1.5.2.7",
-        "1.10.2-recommended": "1.5.2.7"
-    }
+  "homepage": "https://github.com/cyilin/zyinhud/releases",
+  "1.10.2": {
+    "1.5.2.1": "update zh_TW.lang #2 thanks Bob9154\nfix elytra icon location",
+    "1.5.2.2": "fix #3",
+    "1.5.2.3": "update .travis.yml",
+    "1.5.2.4": "update to forge1.10.2-12.18.1.2094",
+    "1.5.2.5": "check weapon damage and attack speed #4",
+    "1.5.2.6": "select best sword #4",
+    "1.5.2.7": "fix floating text render\nminor bugfix",
+    "1.5.2.8": "update to forge1.10.2-12.18.2.2125"
+  },
+  "promos": {
+    "1.10.2-latest": "1.5.2.8",
+    "1.10.2-recommended": "1.5.2.8"
+  }
 }
