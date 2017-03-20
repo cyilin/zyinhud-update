@@ -18,14 +18,15 @@
     "1.5.4.11": "update to 1.11.2\nupdate zh_cn.lang #6 thanks Librazy\nimprove render for safe overlay\nbug fix",
     "1.5.4.12": "fixed black background size on animal stats and fixed breeding icon render #8 thanks msandoz",
     "1.5.4.13": "fix #9",
-    "1.5.4.14": "fix quick deposit"
+    "1.5.4.14": "fix quick deposit",
+    "1.5.4.15": "fix #11 horse jump height, thanks Xericore."
   },
   "promos": {
     "1.10.2-latest": "1.5.2.8",
     "1.10.2-recommended": "1.5.2.8",
     "1.11-latest": "1.5.3.10",
     "1.11-recommended": "1.5.3.10",
-    "1.11.2-latest": "1.5.4.14",
-    "1.11.2-recommended": "1.5.4.14"
+    "1.11.2-latest": "1.5.4.15",
+    "1.11.2-recommended": "1.5.4.15"
   }
 }
