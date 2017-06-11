@@ -21,12 +21,17 @@
     "1.5.4.14": "fix quick deposit",
     "1.5.4.15": "fix #11 horse jump height, thanks Xericore."
   },
+  "1.12": {
+    "1.5.5.16": "update to 1.12"
+  },
   "promos": {
     "1.10.2-latest": "1.5.2.8",
     "1.10.2-recommended": "1.5.2.8",
     "1.11-latest": "1.5.3.10",
     "1.11-recommended": "1.5.3.10",
     "1.11.2-latest": "1.5.4.15",
-    "1.11.2-recommended": "1.5.4.15"
+    "1.11.2-recommended": "1.5.4.15",
+    "1.12-latest": "1.5.5.16",
+    "1.12-recommended": "1.5.5.16"
   }
 }
